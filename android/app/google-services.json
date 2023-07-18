@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418457076334",
+    "project_id": "project-assignment-bdf3e",
+    "storage_bucket": "project-assignment-bdf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418457076334:android:a5366a8472171bd79c1c7f",
+        "android_client_info": {
+          "package_name": "com.example.ubixstar_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418457076334-csbce7565tnbs74hqb67em87nt8jun0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkitpYsJLjqF9ariwdhD6sKdpL9lhwHbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418457076334-csbce7565tnbs74hqb67em87nt8jun0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
